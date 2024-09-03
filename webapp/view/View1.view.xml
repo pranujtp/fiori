@@ -133,6 +133,16 @@
                                 iconFirst="true"
                                 style="Emphasized"
                                 change="onUpload" /> -->
+                                 <u:FileUploader
+                                id="FileUploaderId"
+                                sameFilenameAllowed="true"
+                                iconOnly="false"
+                                buttonOnly="true"
+                                fileType="XLSX,xlsx"
+                                icon="sap-icon://upload"
+                                iconFirst="true"
+                                style="Emphasized"
+                                change="onUpload" />
                         </Toolbar>
                     </headerToolbar>
                     <columns>
