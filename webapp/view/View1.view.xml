@@ -94,12 +94,7 @@
                                 text="{i18n>btnDelete}"
                                 icon="sap-icon://delete"
                                 press="onDelete" />
-                                 <Button
-                                id="btn2"
-                                type="Reject"
-                                text="{i18n>btnDelete}"
-                                icon="sap-icon://delete"
-                                press="onDelete" />
+                                
                             <Button
                                 id="btn3"
                                 type="Emphasized"
