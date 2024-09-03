@@ -109,7 +109,12 @@
                                 icon="sap-icon://download-from-cloud"
                                 press="ondownload" />
 
-                           
+                            <Button
+                                id="btn5"
+                                type="Emphasized"
+                                text="{i18n>btndownlaod}"
+                                icon="sap-icon://download-from-cloud"
+                                press="ondownload" />
                             <u:FileUploader
                                 id="FileUploaderId"
                                 sameFilenameAllowed="true"
