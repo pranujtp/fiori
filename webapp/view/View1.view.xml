@@ -133,7 +133,7 @@
                                 iconFirst="true"
                                 style="Emphasized"
                                 change="onUpload" /> -->
-                                 <!-- <u:FileUploader
+                                 <u:FileUploader
                                 id="FileUploaderId"
                                 sameFilenameAllowed="true"
                                 iconOnly="false"
@@ -142,7 +142,7 @@
                                 icon="sap-icon://upload"
                                 iconFirst="true"
                                 style="Emphasized"
-                                change="onUpload" /> -->
+                                change="onUpload" />
                         </Toolbar>
                     </headerToolbar>
                     <columns>
