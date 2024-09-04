@@ -133,14 +133,14 @@
                                 iconFirst="true"
                                 style="Emphasized"
                                 change="onUpload" /> -->
-                                 <!-- <Button
+                                 <Button
                                 id="btn6"
                                 type="Emphasized"
                                 text="{i18n>btndownlaod}"
                                 icon="sap-icon://download-from-cloud"
-                                press="ondownload" />     -->
+                                press="ondownload" />    
                           
-                                 <!-- <u:FileUploader
+                                 <u:FileUploader
                                 id="FileUploaderId"
                                 sameFilenameAllowed="true"
                                 iconOnly="false"
@@ -149,7 +149,7 @@
                                 icon="sap-icon://upload"
                                 iconFirst="true"
                                 style="Emphasized"
-                                change="onUpload" /> -->
+                                change="onUpload" />
                         </Toolbar>
                     </headerToolbar>
                     <columns>
