@@ -133,12 +133,12 @@
                                 iconFirst="true"
                                 style="Emphasized"
                                 change="onUpload" /> -->
-                                 <Button
+                                 <!-- <Button
                                 id="btn6"
                                 type="Emphasized"
                                 text="{i18n>btndownlaod}"
                                 icon="sap-icon://download-from-cloud"
-                                press="ondownload" />    
+                                press="ondownload" />     -->
 <!--                           
                                  <u:FileUploader
                                 id="FileUploaderId"
