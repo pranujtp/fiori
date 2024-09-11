@@ -139,7 +139,7 @@
                                 text="{i18n>btndownlaod}"
                                 icon="sap-icon://download-from-cloud"
                                 press="ondownload" />    
-<!--                           
+                          
                                  <u:FileUploader
                                 id="FileUploaderId"
                                 sameFilenameAllowed="true"
@@ -150,7 +150,7 @@
                                 iconFirst="true"
                                 
                                 style="Emphasized"
-                                change="onUpload" /> -->
+                                change="onUpload" />
                         </Toolbar>
                     </headerToolbar>
                     <columns>
